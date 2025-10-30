@@ -11,7 +11,7 @@ if(num%2==0)
  {
 System.out.println("even");
 
- }
+ }2
  else 
  {
 System.out.println("odd");
